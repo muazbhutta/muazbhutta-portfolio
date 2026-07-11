@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jenkins / CI artifacts
+reports/
+*.pdf
+
+# Backup files
+*.bak
+*.old
+*~
